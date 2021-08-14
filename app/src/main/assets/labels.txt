@@ -1,5 +1,5 @@
-0 Tancos
-1 1
-2 2
-3 3
-4 4
+Tandan Kosong
+Kualitas 1
+Kualitas 2
+Kualitas 3
+Kualitas 4

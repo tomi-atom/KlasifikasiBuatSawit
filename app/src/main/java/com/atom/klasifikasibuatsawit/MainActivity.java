@@ -29,7 +29,7 @@ public class MainActivity extends AppCompatActivity {
         info.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent i = new Intent(MainActivity.this, ClassifierActivity.class);
+                Intent i = new Intent(MainActivity.this, Informasi.class);
                 startActivity(i);
             }
         });
